@@ -24,10 +24,4 @@ The **Video Conferencing Website** includes the following components:
 - **Responsive UI:** Ensures a consistent experience across different devices and screen sizes.
 
 
-## 👨‍💻 About Me
-
-I am passionate about developing real-time applications and exploring modern web technologies. Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) to stay updated on my projects and work.
-
-![LinkedIn]( https://www.linkedin.com/in/ujjwal-pandey-324769166/ )
-
 
