@@ -1,15 +1,27 @@
-# Task1 Video Confrencing Website
-Task1 is a video confrencing app that makes it easy to groups up with people you want to meet
+# 🎥 Video Conferencing Website
 
+Welcome to the **Video Conferencing Website**! This project is a basic implementation of a real-time video conferencing application using **HTML**, **CSS**, **JavaScript**, and **WebRTC**.
 
+## 🌟 Features
 
-## How to run the project?
+- **Real-Time Communication:** Video and audio chat between peers.
+- **Text Chat:** Send and receive text messages during the video call.
+- **Responsive Design:** Optimized for different screen sizes.
+- **Simple UI:** Easy-to-use interface with basic controls for starting and ending calls.
 
-1. Clone this repository in your local system.
-2. Open the command prompt from your project directory and run the command `npm install`.
-3. Open the command prompt from your project directory and run the command `npm start`.
-4. Go to your browser and type `http://127.0.0.1:3030/` in the address bar.
-5. Hurray! That's it.
+## 🛠️ Technologies Used
 
+- **HTML5**
+- **CSS3**
+- **JavaScript (WebRTC)**
+- **Node.js (for signaling server)**
+- **Socket.IO**
 
+## 🗂️ File Structure
 
+```plaintext
+video-conferencing/
+├── index.html     # The main HTML file
+├── style.css      # The CSS file for styling
+├── index.js       # The JavaScript file for logic
+└── server.js      # The Node.js signaling server
